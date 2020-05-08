@@ -3,31 +3,36 @@
         "Adı":"Çini Müzesi",
         "Tarihi":"15.Yüzyıl",
         "Açıklama":"Çini Müzesi, eski adıyla İmaret Mescidi, XV. yüzyıl Germiyan eseri. Germiyanoğlu II. Yakub Bey'in imaret mescidi, medrese, türbe, kütüphane ve hamam ile beraber yaptırdığı yapılardan tek ayakta kalanıdır. Medrese 1935 yılında yıktırılmıştır. Müzenin giriş kapısı üstündeki 1440 tarihli kitabe, 1411'de Karamanoğulları’nnn işgalinde tahrip olduktan sonra Germiyanoğulları Vakfı'nın mütevellisi olan İshak Fakih tarafından tamir ettirildiğini belirten tamir kitabesidir. Mescit bölümü 1803 senesinde Anadolu Valisi Gürcü Osman Paşa tarafından tamir edilerek minber eklenmiştir. Yakub Han Çelebi’nin İmaret Mescid'i halk arasında “Gök Şadırvan” olarak isimlendirilmiştir. Bu ismin, giriş kapısının hemen arkasındaki ana mekan olarak yapılan, fener kubbenin altındaki kare bölümün ortasında orijinal dilimli mermer şadırvandan gelmektedir. Ayrıca 1411 tarihli Taş Vakfiye müzenin girişinde sergilenmektedir. Müzenin güneyinde II. Yakub Bey'in sandukası bulunup yanında eşi "Paşa Kerime Hanım" gömülüdür. Uzun süre boş kalan bina Kültür Bakanlığı'nca "Çini Müzesi" olarak hizmete girmiştir. ",
-    }   "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/2019-12-31.jpg?raw=true"
+       "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/2019-12-31.jpg?raw=true"
+    },
     {
         "Adı":"Kütahya Kalesi",
         "Tarihi":"1374",
         "Açıklama":"Kütahya Kalesi, Kütahya şehrinde Bizanslılar'dan kalma kale. Bizans imparatorları şehre hakim yüksek ve sarp bir tepe üzerine şato yaptırarak buraları burçlarla tahkim etmişler ve şatoyu iki kat sur içerisine almışlardır. Kütahya Kalesi, mavi ve kırmızımsı bir yalçın kaya üzerinde beşgen şekilli, sağlam ve süslü bir yapıdır. Bir tepe üzerinde yüzük gibi duran bir kaledir. Kalenin etrafı yaklaşık üç bin metredir. Dört tarafı yalçın kaya ile çevrilidir, etrafında hendeği yoktur fakat kale surlarının altı uçurumdur. Kalenin kuzey doğusunda Germiyan eseri olan Kale-i Bâlâ Camii, ve bir de çeşme bulunur. Kütahya Kalesi, Osmanlı hükümeti zamanında müstahfız tımar askeri muhafazasına ve dizdar denilen kale ağasının idaresine verilir, kale arazisi de topçu, lağımcı, cebeci askerlerinin ikametine tahsis edilirdi. Kalede 119 tımarlı müstahfiz askeri vardı. Kale muhafazası için bulunan bu askerlerin bir kısmı, savaşların uzaması sebebiyle askere çok fazla ihtiyaç duyulduğu zamanlarda sefere giderler, geri kalan kısmı da kale muhafazasına devam ederdi. Kale dizdarlığı genellikle saray hizmetinde bulunmuş ve emekliliğini hak etmiş kişilere verilirdi.",
-    }   "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/2017-05-23.jpg?raw=true"
-    {
+       "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/2017-05-23.jpg?raw=true"
+    },
+        {
         "Adı":"Kütahya Ulu Camii",
         "Tarihi":"1401",
         "Açıklama":"Kütahya’da bulunan tek padişah camidir. Vakfa Sultan Bayezid Yıldırım Han Camii Şerifi olarak kayıtlıdır. 48x26 m. ebadında Kütahya’nın en büyük camisidir. Şehzade Yıldırm Bayezid Germiyan beyi Süleyman Şah’ın kızı Devlet Şah Hatun ile evlendiğinde Kütahya Valisi iken bu camiyi yaptırmaya başlamıştır. Ancak seferden sefere koşması ve Ankara Savaşı sonunda Timurleng’e esir düşmesi ve daha sonra da vefat etmesi sebebiyle camiyi bitirmek oğlu Musa Çelebi’ye nasip olmuştur. Caminin vakfiyesi Fatih Sultan Mehmed Han zamanında tertip olunmuştur. Kanuni Sultan Süleyman 1 Temmuz 1522'de Rodos Seferi'ne giderken Kütahya’da ordusu ile birlikte üç gün kalmış ve Mimar Sinan’a bu güzel camiyi tamir etmesini emretmiştir. 1 Temmuz 1534'te de yine Kanuni Irak Seferi'ne çıktığında dört gün burada kalmış ve namazlarını bu camide kılmıştır. II. Selim şehzadeliğinde Kütahya Valisi iken babasının vefatını öğrendiğinde 27 Eylül 1566'da Cuma Hutbesi'ni kendi adına okumasını hatibe emretmiş ve böylece padişahlığını bu camide ilan etmiş ve cuma namazından sonra İstanbul’a hareket ederek tahta oturmuştur.",
-    }   "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/images.jpg?raw=true"
+       "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/images.jpg?raw=true"
+    },
     {
         "Adı":"Arkeoloji Müzesi",
         "Tarihi":"1314",
         "Açıklama":"Vâcidiye Medresesi, Kütahya'da 14. yüzyılın ilk çeyreğinde inşa edilen ve bugün Kütahya Arkeoloji Müzesi'ne ev sahipliği yapan medrese. Medreseyi 1314 senesinde Germiyan ümerasından Mübarezeddin Umur bin Savcı yaptırmıştır. Medrese I. Yakub Bey zamanında Alaşehir Hristiyanları'ndan alınan cizye ile yaptırılmıştır. Sonradan Müderris Molla Abdülvâcid'in medresede uzun yıllar ders okutarak vefatından sonra buraya defnedilmesinden dolayı Vâcidiye Medresesi ismi verilmiştir. "Melikü'lümerai velkübera" lakabıyla hükümdar derecesinde yüksek ümeradan olduğu anlaşılan Mübarezeddin Umur, son Germiyan hükümdarı II. Yakub Bey'in büyük babasıdır. ",
-    }   "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/20190906_170038.jpg?raw=true"
+       "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/20190906_170038.jpg?raw=true"
+    },
     {
         "Adı":"Kütahya Çinili Camii",
         "Tarihi":"1973",
         "Açıklama":"Kütahya Çinili Camii, Kütahya'da bir cami. Minaresi Orta Asya üslubudur. Binanın sekizgen ana gövdesi, kubbesi ve son cemaat yeri Selçuklu beylikler devri üslubudur. Dış yüzü tamamen seramik kaplıdır. Camiyi Ressam Ahmet Yakupoğlu yaptırmıştır",
-    }   "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/IMG_20190714_200318.jpg?raw=true"
+       "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/IMG_20190714_200318.jpg?raw=true"
+    },
     {
         "Adı":"Dumlupınar Şehitliği",
         "Tarihi":"1992",
         "Açıklama":"Başkomutan Meydan Muharebesi 26 Ağustos 1922’de Afyonkarahisar-Kocatepe'den başlamış, 30 Ağustos 1922’de Dumlupınar'da büyük zaferle sona ermiştir. Dumlupınar Şehitliği, Kurtuluş Savaşı boyunca tüm cephelerde şehit düşen vatan evlatlarının anısına, Kültür ve Turizm Bakanlığı tarafından yaptırılarak, Büyük Taarruz’un 70'inci yıldönümü olan 30 Ağustos 1992 tarihinde büyük bir törenle ziyarete açılmıştır. Şehitlik, Üç Komutan Anıtı, Milisler Anıtı, 500 kişilik sembolik şehit mezarları ve kitabeleri, Şehit Baba-Oğul Anıtı, Mehmetçik Anıtı, Namazgâh ve Şadırvan’dan oluşmaktadır.",
-    }   "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/27120dc5-d804-4e67-98a3-4260b252be9a.jpg?raw=true"
-
+       "Resim":"https://github.com/ynsbsr/-dev/blob/master/%C3%B6devresim/27120dc5-d804-4e67-98a3-4260b252be9a.jpg?raw=true"
+    }
 ] }
